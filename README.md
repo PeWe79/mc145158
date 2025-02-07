@@ -82,5 +82,3 @@ Contributions are welcome! Please fork the repository and send a pull request.
 - **v1.0.2 (2024/06/22)**: Bug fix.
 - **v1.0.3 (2025/02/07)**: DipSW support.
 
-
-# test
