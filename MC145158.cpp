@@ -3,6 +3,7 @@
   Version: 1.0.3
   Date: 2025/02/07
   Author: Junon M
+  License: GPLv3
 */
 
 #include "MC145158.h"

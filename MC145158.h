@@ -3,6 +3,7 @@
   Version: 1.0.3
   Date: 2025/02/07
   Author: Junon M
+  License: GPLv3
 */
 
 #ifndef MC145158_h
